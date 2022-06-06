@@ -1,6 +1,7 @@
 - 👋 Welcome to @TactogenWhitePaper
-- 👀 You can view public documents and position papers here
-- 💞️ I’m hope to collaborate on public policy informed by science
+- 👀 You can view public documents and position papers regarding DEA's Scheduling 4-OH-DiPT, 5-MeO-AMT, 5-MeO-MiPT, 5-MeO-DET, and DiPT, below
+- 💞️ I hope to collaborate on public policy informed by science
+
 - 📫 How to reach me: info@tactogen.com
 
 <!---
