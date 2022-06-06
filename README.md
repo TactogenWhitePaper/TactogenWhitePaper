@@ -1,8 +1,6 @@
-- 👋 Welcome to @TactogenWhitePaper
-- 👀 You can view public documents and position papers regarding DEA's Scheduling of certain trypamines, below
-- 💞️ I hope to collaborate on public policy informed by science
-
-- 📫 How to reach me: info@tactogen.com
+- Welcome to this archive of @TactogenWhitePaper documents.
+- You can view public documents and position papers regarding DEA's Scheduling of certain trypamines, below
+- Reach me at info@tactogen.com
 
 <!---
 TactogenWhitePaper/TactogenWhitePaper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
