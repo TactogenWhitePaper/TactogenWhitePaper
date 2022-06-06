@@ -1,5 +1,5 @@
 - Welcome to this archive of @TactogenWhitePaper documents.
-- You can view public documents and position papers regarding DEA's Scheduling of certain trypamines, below
+- You can view public documents and position papers regarding DEA's Scheduling of certain tryptamines, below
 - Reach me at info@tactogen.com
 
 <!---
